@@ -1,7 +1,7 @@
 # DNA_Sequence
 Class project to compare the performance of the binary search tree with the self-balancing AVL tree. SequenceMap simulates a class of enzyme acronym  associated with one or more recognition sequences. 
 
-[Assignment_Trees.pdf](https://github.com/OlgaKent/DNA_Sequence/blob/master/Assignment_Trees.pdf.pdf)
+[Assignment_Trees.pdf](https://github.com/olgakent/DNA_Sequence/blob/master/Assignment_Trees.pdf)
     
 To compile and run the program on terminal type:
 
